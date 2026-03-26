@@ -1,223 +1,218 @@
 {
-  "generated_at": "2026-02-26T02:21:23.150117Z",
+  "generated_at": "2026-03-26T05:52:07.731125Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-02-25",
-  "count_today": 6,
+  "latest_date": "2026-03-25",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-02-25",
-      "title": "本篇文章带你拆解OpenClaw的核心技术架构，让AI助手不再神秘！它依靠定时任务、心跳机制与Soul人格文件，从被动工具变成能主动干活的智能体。00 后开发者来新璐现场手搓了一个极简版本，还实现了AI自动拨打FaceTime、智能下播等名场面，趣味性与实用性拉满。",
+      "date": "2026-03-25",
+      "title": "这篇文章是Anthropic工程师在实战中搞清楚的一件事： 要让 AI 真正做好长时间、复杂的任务，光靠一个聪明的模型是不够的。你需要设计一套系统。让我们一起来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
+      "date": "2026-03-25",
+      "title": "本篇文章带你一起从第一性原理出发，探讨为何管理AI智能体集群需要的是一个OS层，而非更好的框架，以及该层实际需要承担的任务。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "LuxReal是群核科技基于3D技术所打造的AI内容创作工具，支持 AI 短剧与商品视频双场景创作，兼顾高效 Agent 模式与精细 Canvas 模式。目前仅有英文版但支持中文输入，只需上传图片+简单描述，就能一键生成剧本、分镜与成片，风格、比例、清晰度可自由定制，是视频创作者和电商从业者的高效生产力神器。",
+      "date": "2026-03-25",
+      "title": "最近小互一直研究 Claude Code 工作流，自动化搜集素材、处理素材、写文章、自动配图、自动排版、自动同步到各个平台。从今天开始他将陆续公布最近研究和实战的结果，帮助大家学习 Claude Code 工作流，如何实现各种复杂工作的自动化...",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "AI交互迎来OS级革新！这篇框架以ConversationUI为核心，将Agent、工具甚至硬件都化为平等角色，通过群聊模式实现灵活协作——可自主主导任务分配，也能切换自动模式让不同角色自主协同。不同角色还支持跨群流转上下文、主动推送消息。这种操作彻底打破了当前AI工具的使用局限，为C端AI产品落地提供了全新路径。",
+      "date": "2026-03-25",
+      "title": "就在昨天，OpenAI 官方账号发布了一则简短的告别声明：“我们要和 Sora 说再见了。”不仅 App 关停、API 下线，就连原本计划接入 ChatGPT 的视频功能也一并搁置。这背后，究竟藏着怎样不为人知的深层原因？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "2026年AI已迈入 Agent 时代的全新阶段！顶尖模型已经具备专家级能力与自主判断力，能长时间独立完成复杂任务。Agent可本地运行调用全量数据，通过MCP协议连接各类服务，借助Skills快速解锁专业技能，甚至能操作图形界面、联动物理载体。多智能体协作更打破效率瓶颈，组队并行工作还能沉淀经验持续进化。臧师傅这篇文章把2026年初AI领域到底发生了哪些变化，一层一层拆给你看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-25",
-      "title": "2026年AI发展狂飙，agent从单打独斗升级为智能协作，多模态创作门槛骤降，各行业都在变革。作者直击个人破局关键：无论大厂、初创还是创业，都要扎进高浓度AI领域，掌握Build能力等核心技能，打破岗位边界。AI浪潮远比移动互联网迅猛，与其焦虑迷茫，不如搭建专属认知框架，找准自己的生态位。",
+      "date": "2026-03-25",
+      "title": "在这场对谈中， 围绕a16z如何判断成长阶段公司的 “ 第二增长曲线 ” 展开系统阐述，重点谈到 Waymo 、 ElevenLabs 、 Kalshi 、 Coinbase 、 Robinhood 、 Stripe 、 Revolut 等公司的投资逻辑，以及私募与公开市场的增长断层、 AI 时代毛利率与留存指标的重新定义、预测市场的监管路径和金融科技平台的长期演化方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
   "count_7d": 36,
   "updates_7d": [
     {
-      "date": "2026-02-25",
-      "title": "本篇文章带你拆解OpenClaw的核心技术架构，让AI助手不再神秘！它依靠定时任务、心跳机制与Soul人格文件，从被动工具变成能主动干活的智能体。00 后开发者来新璐现场手搓了一个极简版本，还实现了AI自动拨打FaceTime、智能下播等名场面，趣味性与实用性拉满。",
+      "date": "2026-03-25",
+      "title": "这篇文章是Anthropic工程师在实战中搞清楚的一件事： 要让 AI 真正做好长时间、复杂的任务，光靠一个聪明的模型是不够的。你需要设计一套系统。让我们一起来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
+      "date": "2026-03-25",
+      "title": "本篇文章带你一起从第一性原理出发，探讨为何管理AI智能体集群需要的是一个OS层，而非更好的框架，以及该层实际需要承担的任务。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "LuxReal是群核科技基于3D技术所打造的AI内容创作工具，支持 AI 短剧与商品视频双场景创作，兼顾高效 Agent 模式与精细 Canvas 模式。目前仅有英文版但支持中文输入，只需上传图片+简单描述，就能一键生成剧本、分镜与成片，风格、比例、清晰度可自由定制，是视频创作者和电商从业者的高效生产力神器。",
+      "date": "2026-03-25",
+      "title": "最近小互一直研究 Claude Code 工作流，自动化搜集素材、处理素材、写文章、自动配图、自动排版、自动同步到各个平台。从今天开始他将陆续公布最近研究和实战的结果，帮助大家学习 Claude Code 工作流，如何实现各种复杂工作的自动化...",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "AI交互迎来OS级革新！这篇框架以ConversationUI为核心，将Agent、工具甚至硬件都化为平等角色，通过群聊模式实现灵活协作——可自主主导任务分配，也能切换自动模式让不同角色自主协同。不同角色还支持跨群流转上下文、主动推送消息。这种操作彻底打破了当前AI工具的使用局限，为C端AI产品落地提供了全新路径。",
+      "date": "2026-03-25",
+      "title": "就在昨天，OpenAI 官方账号发布了一则简短的告别声明：“我们要和 Sora 说再见了。”不仅 App 关停、API 下线，就连原本计划接入 ChatGPT 的视频功能也一并搁置。这背后，究竟藏着怎样不为人知的深层原因？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "2026年AI已迈入 Agent 时代的全新阶段！顶尖模型已经具备专家级能力与自主判断力，能长时间独立完成复杂任务。Agent可本地运行调用全量数据，通过MCP协议连接各类服务，借助Skills快速解锁专业技能，甚至能操作图形界面、联动物理载体。多智能体协作更打破效率瓶颈，组队并行工作还能沉淀经验持续进化。臧师傅这篇文章把2026年初AI领域到底发生了哪些变化，一层一层拆给你看！",
+      "date": "2026-03-25",
+      "title": "在这场对谈中， 围绕a16z如何判断成长阶段公司的 “ 第二增长曲线 ” 展开系统阐述，重点谈到 Waymo 、 ElevenLabs 、 Kalshi 、 Coinbase 、 Robinhood 、 Stripe 、 Revolut 等公司的投资逻辑，以及私募与公开市场的增长断层、 AI 时代毛利率与留存指标的重新定义、预测市场的监管路径和金融科技平台的长期演化方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-25",
-      "title": "2026年AI发展狂飙，agent从单打独斗升级为智能协作，多模态创作门槛骤降，各行业都在变革。作者直击个人破局关键：无论大厂、初创还是创业，都要扎进高浓度AI领域，掌握Build能力等核心技能，打破岗位边界。AI浪潮远比移动互联网迅猛，与其焦虑迷茫，不如搭建专属认知框架，找准自己的生态位。",
+      "date": "2026-03-24",
+      "title": "虾干完活了你不知道？让🦐停下来休息了？这怎么行。CY带你让OpenClaw强提醒，干完活打个电话告诉你！从应用创建、权限开通到技能安装，有详细指引和排错方案，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-24",
-      "title": "非技术向AI学习指南来啦！不用懂编程或算法，就能快速上手AI。作者甲木围绕五大学习心法，从工具选择、场景切入、提示词沟通等入门技巧，到Skills封装、Workflow搭建、Vibe Coding等进阶玩法，再到OpenClaw等热门Agent工具实操，层层递进。更涵盖一手信息源、资本风向与职业发展建议，帮非技术人群（职场人、学生、创业者等）避开学习误区，从新手成长为高效使用者，轻松让AI赋能工作生活。",
+      "date": "2026-03-24",
+      "title": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-24",
-      "title": "作者避开复杂公式，把 SFT、RLHF 等核心方向，PPO、DPO 等算法，以及 LoRA、Adapter 等参数微调工具讲得明明白白。从预训练与后训练的关联，到调参逻辑、范围选择，再到蒸馏、量化等降本增效场景，层层拆解核心知识点，帮非技术读者搭建完整认知框架，搞懂专业术语背后的逻辑，快速掌握大模型后训练的核心！",
+      "date": "2026-03-24",
+      "title": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-24",
-      "title": "专为Claude Code用户打造的开源配置同步神器来啦！claude-config-sync完美解决了多设备配置不同步、换机重装插件技能的痛点，而且支持选择性同步技能、插件等内容，还默认屏蔽敏感文件。5分钟即可完成初始化，更有自动监听、备份管理等实用功能，全平台兼容且开源免费，彻底告别配置管理的繁琐操作！",
+      "date": "2026-03-24",
+      "title": "前几天 ，一篇来自Kimi的论文「ATTENTION RESIDUALS」在 AI 圈引发了激烈讨论——马斯克罕见地发出评价：\"Impressive work from Kimi\"。同时，两位前Openai大佬也同样发出了高度评价，OpenAI 「推理模型之父」Jerry Tworek表示“深度学习2.0时代即将到来”。然而这篇论文的共同一作者之一，是一位17岁的中国高中生——陈广宇。那这篇论文究竟写了什么，能让这些顶级大佬集体出动，这篇文章用更易懂的方式让大家了解它是什么，解决了什么问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-24",
-      "title": "OpenAI API工程负责人Sherwin Wu谈到OpenAI内部95%工程师靠Codex写代码、审PR，工程师已经转型为智能体管理者。未来 12-18 个月，长任务、音频多模态模型会成为主流，还将迎来“一人十亿”初创公司与B2B SaaS黄金时代。企业 AI 落地需要兼顾上下协同，开发者更要聚焦打造用户真正需要的产品，快来一同探索未来的科技机遇。",
+      "date": "2026-03-24",
+      "title": "关于OpenClaw大家不仅仅在讨论怎么玩得更花，而更多的是两个字： 太贵 。以及另外两个字： 不安全 。甚至网上已经出现了 付费卸载龙虾 的笑话。今天这篇文章带大家使用 OpenClaw + n8n，打造更便宜、更安全的 Agent 。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-24",
-      "title": "Engram这款开源神器打破AI知识检索的局限，注入可共享、可切换的完整专家记忆，包含人设、思维模式与决策流程，零向量依赖还比RAG更精准。分层懒加载设计可以精准控制token消耗，记忆还可一键分享，让AI秒变同领域专家，甚至叠加多领域记忆打造超级智能体。目前覆盖专家顾问、模拟面试等多个场景，快来上手试试！",
+      "date": "2026-03-24",
+      "title": "为了保证小白也能在安卓手机部署成功OpenClaw，作者尝试了很多次，不停的优化方案，最终找到一条最合适的部署路线！本篇教程将详细介绍如何在安卓手机上零成本部署 OpenClaw，并通过飞书机器人实现对话交互。不需要额外的硬件投入，利用闲置手机就可以搭建 24 小时在线的AI助手。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-24",
-      "title": "Agent时代执行力不再稀缺，判断力却成为最珍贵的资产！一个人就能完成昔日团队的工作，想法到落地的壁垒彻底打破，判断力可以编码进系统独立产生复利，试错与验证周期也被大幅压缩。当“做不到”的借口消失，每一次选择都在考验判断，占据协议、数据等核心生态位才是关键。或许这个时代更偏爱敢探索、快迭代的人，唯有在新旧秩序交替中持续判断、快速前行，才能抓住时代机遇。",
+      "date": "2026-03-23",
+      "title": "部署完小龙虾后，一旦出现故障或需要修改配置文件，OpenClaw的配置文件看起来是不是像天书？本文档完整梳理了 OpenClaw 配置文件~/.openclaw/openclaw.json 中所有24个顶层字段的含义与用法，或许对你有帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "这款超实用的Claude Code插件Claudeception，堪称AI办公效率神器！它能自动学习你工作习惯，将写作流程、文件管理、问题排查等习惯转化为精准匹配的Skill，后续无需重复指令，AI就能贴合你的工作风格。而且它还有严格的质量筛选，只留存可复用的有效经验，虽然是慢热型工具，但使用2-3周后便能大幅节省沟通时间。本篇文章分享了详细的安装步骤、避坑指南和使用技巧，对Claude Code重度用户、有固定工作流程的人而言，不容错过！",
+      "date": "2026-03-23",
+      "title": "这篇文章，作者用最通俗的语言、最生活化的例子，把AI的100个核心概念讲得明明白白。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "这份OpenClaw零代码实战教程，通过Shell封装实现Codex CLI零轮询运行，可以告别等待与重复命令；再搭配Git驱动的自动化审计流程，代码推送后即可由Agent团队自动审查、修复并发送通知。追求高效、自动化开发流程的人快来上手试试！",
+      "date": "2026-03-23",
+      "title": "这周AI音乐领域迎来合规与创新的双重爆发！英国取消AI版权豁免，BMG、索尼等重拳维权，首个AI流媒体欺诈案宣判。BandM8、Roland等都推出“音乐生音乐”协作平台，专业音乐人AI使用率达78%，分轨提取成为了核心需求。更有多篇前沿论文聚焦音色控制、音频水印等关键方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "这个大模型评测打破了传统榜单总分导向的弊端！XSCT Bench平台以场景化为核心，靠六大科学评分策略保障结果精准，还独创了多场景推荐指数，让不同需求都能找到适配模型。平台可以直观对比模型真实输出，精准区分模型能力短板与Prompt问题，还提供了多维度可视化分析，为大家高效选出高性价比、贴合业务场景的模型大幅节省试错成本，快来一探究竟！",
+      "date": "2026-03-23",
+      "title": "如果你关注AI领域，这一年一定被这三个词轮番轰炸过： Prompt Engineering 、 Context Engineering 、 Harness Engineering。今天这篇文章，作者从「本质」聊起，串联它们的演进脉络，厘清它们的区别以及对我们设计 Agent 到底有什么用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "开发者AlexFinn靠OpenClaw月入超万美元的实战指南来了！这篇内容揭秘其本地部署的核心优势与5分钟快速上手方案，教你打造24/7工作的专属数字员工。从建立工作关系、反向提示的核心思维，到搭建每日简报、任务控制中心的落地玩法，再到安全使用规则，全维度拆解高效用法，帮你解锁主动工作、自我改进的AI生产力。",
+      "date": "2026-03-23",
+      "title": "做内容的人都知道，写稿并不难。真正磨人的，是前面找选题、找线索、找一手信息，中间把结构捋顺，后面再把内容做成图文、演示稿或者别的形式。所以内容创作最缺的，往往不是一个“会写稿的 AI”，而是能真正嵌进工作流的能力。下面是作者实测后，优先推荐的几组适合做内容的 skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "作者这篇深度解析带你读懂Awesome OpenClaw Skills生态的核心逻辑！项目从5705个技能中严苛筛选出3002个优质项，以质量、安全为先清退近半数内容，规避金融风险、剔除恶意与重复技能。28个分类覆盖AI大模型、开发工具、Agent社交等多领域。文中还按开发者、创意工作者等不同人群给出了专属导航建议，是快速把握AI Agent生态全貌、找准开发与应用方向的关键参考。",
+      "date": "2026-03-23",
+      "title": "以前使用各种产品，有不好用的地方都只能找平台方反馈，大部分是得不到回复的。一部分是因为研发资源有限等排期，还有一大部分需求被评估之后抛弃了。 而现在，自己使用的工具和工作流每天都可以数次迭代，而且很多产品经过改造变得更加适合自己，再也不需要去等待平台的建设，更不用接受平台的\"取舍\"。那么或许产品的未来会从\"以用户为中心\"转变为\"用户主导开发（UDD）\"",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "OpenAI Codex负责人的深度访谈，带你拆解AI编码与Agent时代的核心趋势。Codex半年实现20倍增长，OpenAI内部已实现AI主导代码编写，工程师工作模式彻底转向“委托式”协作。综合来看，AGI发展的核心瓶颈在人机交互而非模型，通用Agent或将主导市场。此外，AI时代的主动性、品味与质量才是稀缺能力！",
+      "date": "2026-03-23",
+      "title": "一泽做的一个Skill，支持：一次性打开操作 100+ 浏览器网页、自动化模拟操作，发布各大社媒平台、帮你直接找 B 站、网飞等并自动打开播放、自动查美签系统，看可预约时间并预约、Agent 自动化测试 Web App等等。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "AetherViz Master 依托 Gemini 3.1 把零代码 3D 互动教学变成现实。只需输入知识点，几秒就能自动生成可交互网页，覆盖多学科并智能切换 2D/3D 渲染，集成公式、测验、参数调节等完整教学能力。它让抽象知识变成立体可操作的体验，真正把学习从被动接收变成主动探索，为教育工具带来体验级革新！",
+      "date": "2026-03-23",
+      "title": "OpenClaw安装容易，用起来难 。做电商的公司，问虾上个月的退货率，它跑去网上搜；让它写封催款邮件，它连客户欠了多少钱都不知道。这样的虾，跟鱼缸里的宠物没什么区别，只有观赏价值。很多人说企业养虾没养好，是模型不够强，是 Skill 写得不好。这话不完全对。虾住在哪里，比虾本身重要。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-23",
-      "title": "AI Agent正在重构SaaS行业，2026年初软件板块蒸发2万亿市值，传统SaaS的界面、工作流等护城河被系统性瓦解，按座位收费模式彻底失效。这篇文章拆解了旧壁垒崩塌的核心原因，明晰新护城河的四大核心维度，带你揭秘SaaS分裂为AI-Infra、垂直AI、Agent SaaS三大新物种的行业趋势，更给出投资者、企业、创业者的专属战略行动指南。",
+      "date": "2026-03-22",
+      "title": "这期访谈围绕AI agents的快速崛起所带来的产业变化展开讨论。在近期生成式AI与Agent工具能力跃迁的背景下，四位YC合伙人结合一线创业观察与亲身使用体验，探讨agent如何改变软件使用方式、开发者工具的分发逻辑以及未来产品设计原则。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-22",
-      "title": "这篇Discord多Agent“灵系军团”实操指南，带你解锁全透明同频协作新玩法！不同于飞书单Bot分身的轻量模式，打造单频道多独立Bot账户的AI独立团，让各个角色实时协作、全过程可见可干预。从Bot账号创建、本地Agent部署，到路由绑定、权限配置、上下文打通，全流程步骤拆解+避坑指南，手把手教你搭建专属AI军团，一人轻松指挥多个AI专家高效配合！",
+      "date": "2026-03-22",
+      "title": "微信终于下场，做了第一个真正意义上让 外部AI接入微信 的功能。微信本次提供的方案， 本质上是一种信息传递桥梁，既然能够把OpenClaw的信息传到微信上，那么任意Agent的信息都将能够接到微信上。于是，梦飞下午研究了这个插件，并且进行了改造。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-22",
-      "title": "烧14 亿token的OpenClaw实战秘籍，帮你避开AI Agent “空转烧钱” 的坑！核心是告别 “即开即用” 幻想，把Agent当基础设施搭建。日常可以选 Sonnet 4.6（Opus 级能力仅 1/5 成本），用 Soul.md 定决策逻辑、Todo.md 拆任务、定时任务替代长会话，关键信息落地文件避免上下文丢失。拆分 Dev/Ops Agent，逐个集成功能，做好安全审计，拒绝盲目堆配置。按这套方法搭建，你的Agent也将从 “智障玩具” 变身高效生产力工具！",
+      "date": "2026-03-22",
+      "title": "当下AI Agent普遍存在工具隔离、联动困难、部署繁琐的痛点，而Taku凭借三层Harness架构给出了全新解法。区别于Claude Code天然隔离的设计，Taku更贴合普通用户，降低了组装、分发AI能力的门槛，普通人也能一键串联各类工作流，快速搭建专属复合工具。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-22",
-      "title": "智谱 GLM-5 获 a16z 认证为顶级开源模型，744B 总参搭配 28.5T 预训练 token，搭载 DSA 稀疏注意力等创新架构，以极低训练成本追平同类最优效果。凭借全异步 Agent RL 框架与自研 slime 基础设施，在推理、编程、Agent 任务中表现惊艳，BrowseComp 登顶、Vending-Bench 2 开源第一，实力逼近闭源旗舰。开源可以直接部署，为开发者提供低成本、高效率的复杂系统工程与长程 Agent 任务解决方案！",
+      "date": "2026-03-22",
+      "title": "大多数Claude Code用户都将.claude文件夹视为一个黑盒。他们知道这个文件夹存在，也见过它出现在项目根目录中，但从未打开过，更不了解里面每个文件的作用。本指南将全面解析该文件夹的完整结构，涵盖日常常用文件以及只需一次配置、后续无需打理的文件。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-22",
-      "title": "微短剧创作者的爆款密码来了！这款OpenClaw专属节奏优化Skill，凭借数十部高完播率短剧的数据打造，零开发即可落地。它精准攻克前3秒留客难、整体完播率低、AI生成节奏乱的核心痛点，覆盖甜宠、战神等全品类及时长，无缝适配主流AI视频工具。更涵盖了标准化方案、全场景提示词与18项量化质检清单，可以帮你轻松拿捏爆款节奏，高效产出高留存微短剧。",
+      "date": "2026-03-22",
+      "title": "你有没有遇到过这样的场景：把问题丢给 AI，得到的却是一堆\"众所周知\"\"据报道\"的空话，找不到来源，也经不起追问？Cat-Research 就是为了解决这个问题而生的。它不是一个聊天机器人，而是一套多智能体协作的深度研究系统。 项目已开源，欢迎 Star ⭐～",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-22",
-      "title": "Cursor设计负责人Ryo Lu的重磅访谈来袭，带你解锁AI时代软件构建与设计的全新认知！4 人设计团队 + 全员参与的独特工作模式，核心是收拢成果、统一概念而非画稿。团队用 Cursor 造 Cursor 形成自我进化飞轮，还提出人类最多仅能管理 4 个 Agent，下一代界面将向规划层跃升。仅会做界面的设计师终将被淘汰，而 Cursor 的野心绝非代码编辑器，而是适配所有人思维的通用构建平台，可以让不同工作方式的人都能高效创作。",
+      "date": "2026-03-22",
+      "title": "2026年2月，Forsgren在Gergely Orosz主办的The Pragmatic Summit上做了一场对谈，覆盖 AI 时代的瓶颈转移、组织流程债务、度量陷阱和变革管理。让我们一同来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-22",
-      "title": "Claude Code重磅更新！官方原生内置Git Worktree，解决了多 Agent 并行开发的痛点！此前社区手动搭建 worktree 不仅操作繁琐，还存在 subagent 不兼容、Agent 感知异常等问题，如今仅需一个 --worktree 参数，就能实现自动创建隔离目录、subagent 原生适配，桌面版还可以一键开启。搭配指定参数就能让多 Agent 全自动并行工作，完美适配多功能开发、批量代码迁移等场景，与 Agent Teams 形成高效配合，让并行编码零冲突更高效！",
+      "date": "2026-03-21",
+      "title": "阿真这篇文章不讲那些更深奥的进阶知识。只分享她自己的一个超级适合小白且好用的写出自己需要的 Skill 的方法。当安装了这个 Skill 之后，你说“我想要通过访谈来新建 Skill”，这个 Skill 就会开始和你沟通，一步步向你提问。 然后在整个对话的过程中，它会逐步梳理清楚你的需求并输出 Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-21",
-      "title": "OpenClaw 实操干货来袭！Matthew Berman靠它用一台MacBook、零代码搭建的十大落地用例，一人就撑起小公司中台工作。从30分钟搞定定制化CRM、会议行动项自动追踪，到多Agent商业顾问团、AI自查的安全委员会，还有视频选题流水线、过敏原排查的食物日记等，各模块数据互通形成飞轮效应。更有完善的定时任务、备份更新体系，搭配多重安全防护和基建技巧！",
+      "date": "2026-03-21",
+      "title": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-21",
-      "title": "Notion CEO伊万·赵的访谈直击AI Agent时代核心趋势，为企业和SaaS行业奉上转型干货！Notion即将推出企业级Custom Agents，可以高效处理重复工作、节省大量工时，伊万本人也已经用Agent接管邮件等工作，但在AI提效方面目前是碎片化的，暂未替代完整岗位。Notion 正从按席位收费转向按用量收费，坚持数据开放、模型中立的战略，还将推出独立 Agent 聊天应用，其 IPO 也锚定这一全新商业模式跑通，更提出产品若无法被 Agent 使用则未来堪忧，为 SaaS 行业指明转型方向。",
+      "date": "2026-03-21",
+      "title": "越来越多的岗位遭受到AI的冲击，这篇文章，作者想和所有画师、艺术生、创作者认真聊聊这件事。不是为了安慰你，而是想陪你把这件事真正想清楚。让你在时代变革中找准定位，化冲击为进阶动力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-21",
-      "title": "Google Gemini 3预训练负责人首次揭秘模型研发核心逻辑，带来满满前沿干货！Gemini 3的突破性提升，靠的是百人大团队的多维度改进合力，而非单纯算力堆砌，其混合专家架构更是实现了计算与参数的分离。行业正从“数据无限”转向“数据有限”的范式，合成数据需谨慎使用。此外负责人还分享了长上下文、注意力机制等预训练前沿方向，以及研究型工程、全技术栈理解的 AI 人才核心素养，快来一探究竟！",
+      "date": "2026-03-21",
+      "title": "大家对 OpenClaw 在企业管理端的想象力，明显比业务端弱。其实跨境公司的管理问题一点不比业务小：员工流失、知识断层、数据滞后、达人管理混乱，每一件都能搞垮一个正在增长的公司。饼干哥哥这篇文章就把他们团队真实在跑的几个场景拆开讲解，看看这千亿市场到底要怎么做？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "这篇OpenClaw生态深度复盘，以资深用户的踩坑视角，拆解了从安装到落地的全链路痛点！覆盖Skills选择、多平台接入、多实例管理等核心痛点，曝光了社区技能安全隐患。此外作者还梳理了原生工具、快速部署等四大创业赛道布局与优劣，分层解析用户画像，给出行业演进和入局的实操建议，堪称玩转OpenClaw的必备指南。",
+      "date": "2026-03-21",
+      "title": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "这篇KimiClaw+OpenClaw实战干货，带你解锁AI自动化知识管理新玩法！作者卡尔分享了两大核心接入方式，可一键部署也能关联本地OpenClaw保留配置记忆，还附赠了全套提示语和安装细节。教你用定时+记忆功能打造专属数字分身，实现视频摘要自动抓取、邮件长文智能过滤、财报精准追踪，甚至搭建目标管理看板和极简第二大脑，让知识库自动生长，彻底从繁琐的信息整理中解放。",
+      "date": "2026-03-21",
+      "title": "Telegram/Discord 的消息收发本身就需要特殊网络环境，用起来多了一层麻烦。这次我们不用官方插件了——直接自己动手写一个飞书（Lark）Channel 插件 ，让 Claude Code 变成你的飞书机器人。在地铁上、在床上、在马桶上，随时随地给 Claude 发消息让它帮你写代码！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "这份零基础友好的OpenClaw 实战指南，避开复杂底层配置，带你平滑上手！作者清晰拆解了 AI 智能体核心概念，纠正常见认知误区，提供从准备 API、一键安装、接入飞书到安全防护的完整流程。还对比 Kimi、MiniMax、GLM 三大国内模型，教你按需选择、控制成本，搭配 ClawHub 技能商店实现自动日报、资料整理等实用功能，真正把 AI 用进日常工作，大幅提升效率！",
+      "date": "2026-03-20",
+      "title": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "谷歌Gemini 3.1 Pro突袭发布，推理能力断层式飞跃！其在高难度ARC-AGI-2测试中得分翻倍，碾压Claude与GPT，在16项核心测试中斩获13项第一，价格却极具优势。它在编程、动画生成、复杂系统搭建上表现炸裂，还升级了 token 上限、文件上传等实用功能，专属 AI 干活模式让工具使用更稳定。谷歌此举剑指消费端 Agent 生态，目前多渠道可体验，或许是更高性价比的AI工具！",
+      "date": "2026-03-20",
+      "title": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "别再执着于打磨提示词，它仅仅能修饰表面，真正决定内容质量的是素材、模型、审稿能力。优质素材要凝练主线与关键信息，而非堆砌内容；选对模型是关键，Claude Opus 4.6等优质模型的文字把控力更优秀；审稿能力是最容易被忽略的隐性门槛，能精准挑错并反馈修改，才能让AI稿件摆脱平庸。三者兼备，才能让AI写出有质感、有价值的内容。",
+      "date": "2026-03-20",
+      "title": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "a16z合伙人重磅拆解AI商业变现核心，揭秘广告是AI触达十亿用户的必经之路！订阅模式难以覆盖AI规模化成本，而且多数用户仅仅用AI做轻量生产力，不愿意为基础功能付费，而广告本就是互联网的核心变现逻辑。AI广告更具优势，能依托对用户意图、上下文的深度理解，打造非打断式的高价值广告形态，还可以探索联盟电商、目标竞价等多元变现路径。这不仅是AI短期变现手段，更是长期迭代、持续服务的关键经济基础。",
+      "date": "2026-03-20",
+      "title": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-02-20",
-      "title": "AI投资人Matt Shumer的警示文引爆全网！他直言当下AI已突破质变，新模型能自主编程、测试并具备判断力，更开启了自我改进的“智能爆炸”。这并非遥远预言，而是1-5年内就将大规模取代法律、金融等白领工作的现实。本篇文章打破大众对免费AI的过时认知，给出极具价值的行动指南：立刻订阅顶级付费模型，将其深度融入核心工作，并提前做好财务与能力规划。这不仅是变革预警，更是普通人在AI时代站稳脚跟的生存手册。",
+      "date": "2026-03-20",
+      "title": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],

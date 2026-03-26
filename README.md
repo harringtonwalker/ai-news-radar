@@ -45,7 +45,8 @@
 ### 4. 快速开始
 
 ```bash
-cd /Users/carl/Downloads/10_项目代码/01_内容自动化与发布/ai-news-radar
+git clone <your-repo-url>
+cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -128,7 +129,8 @@ You only need to run one command, or let GitHub Actions run it on schedule.
 ### 4. Quick start
 
 ```bash
-cd /Users/carl/Downloads/10_项目代码/01_内容自动化与发布/ai-news-radar
+git clone <your-repo-url>
+cd ai-news-radar
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt

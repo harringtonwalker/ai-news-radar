@@ -14,6 +14,7 @@ const state = {
   waytoagiData: null,
   generatedAt: null,
 };
+const AUTO_REFRESH_MS = 5 * 60 * 1000;
 
 const statsEl = document.getElementById("stats");
 const siteSelectEl = document.getElementById("siteSelect");
@@ -448,3 +449,5 @@ if (waytoagi7dBtnEl) {
 }
 
 init();
+// Re-fetch generated JSON so the page reflects newly scheduled updates.
+window.setInterval(init, AUTO_REFRESH_MS);
