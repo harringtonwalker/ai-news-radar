@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T16:44:10.129723Z",
+  "generated_at": "2026-03-28T17:37:30.278705Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-28",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-28",
@@ -31,9 +31,14 @@
       "date": "2026-03-28",
       "title": "Cognition 的联合创始人 Scott Wu 和 Russell Kaplan 正领导着一家发展迅猛、人才济济的人工智能公司。他们的使命是：让专业的软件工程无处不在。软件资源丰富的世界会是什么样子？Cognition 是如何帮助一些最大的公司和组织大幅提升生产力的？人工智能最终能否让价值 1000 亿美元的政府 IT 系统摆脱困境？Scott 和 Russell 探讨了这些以及其他热门话题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "2026年初，Anthropic 和 OpenAI 几乎同一周发了各自关于 Harness Engineering 的实践文章。加上两篇关于 Agent 记忆基础设施的学术论文，以及关于三代工程范式演进的讨论。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-28",
@@ -58,6 +63,11 @@
     {
       "date": "2026-03-28",
       "title": "Cognition 的联合创始人 Scott Wu 和 Russell Kaplan 正领导着一家发展迅猛、人才济济的人工智能公司。他们的使命是：让专业的软件工程无处不在。软件资源丰富的世界会是什么样子？Cognition 是如何帮助一些最大的公司和组织大幅提升生产力的？人工智能最终能否让价值 1000 亿美元的政府 IT 系统摆脱困境？Scott 和 Russell 探讨了这些以及其他热门话题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-28",
+      "title": "2026年初，Anthropic 和 OpenAI 几乎同一周发了各自关于 Harness Engineering 的实践文章。加上两篇关于 Agent 记忆基础设施的学术论文，以及关于三代工程范式演进的讨论。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
