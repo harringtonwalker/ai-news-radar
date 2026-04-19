@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-19T21:05:01.279543Z",
+  "generated_at": "2026-04-19T22:01:45.255464Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 455,
+      "duration_ms": 513,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 768,
-      "duration_ms": 349,
+      "duration_ms": 338,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 324,
-      "duration_ms": 11926,
+      "item_count": 326,
+      "duration_ms": 10566,
       "error": null
     },
     {
@@ -30,23 +30,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 786,
+      "duration_ms": 794,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2879,
-      "duration_ms": 1482,
+      "item_count": 2786,
+      "duration_ms": 1711,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 344,
+      "item_count": 48,
+      "duration_ms": 651,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 204,
+      "duration_ms": 182,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1600,
+      "duration_ms": 2058,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 80,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
@@ -78,21 +78,21 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 140,
-      "duration_ms": 437,
+      "duration_ms": 811,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 0,
-      "item_count": 1726,
-      "duration_ms": 2390,
-      "error": null,
+      "partial_failures": 1,
+      "item_count": 786,
+      "duration_ms": 6938,
+      "error": "1 feeds failed",
       "feed_count": 3,
       "effective_feed_count": 3,
-      "ok_feed_count": 3,
-      "failed_feed_count": 0,
+      "ok_feed_count": 2,
+      "failed_feed_count": 1,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -102,16 +102,18 @@
     "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 6313,
-  "items_before_topic_filter": 5056,
-  "items_in_24h": 486,
+  "fetched_raw_items": 5281,
+  "items_before_topic_filter": 5086,
+  "items_in_24h": 501,
   "rss_opml": {
     "enabled": true,
     "path": "feeds/follow.opml",
     "feed_total": 3,
     "effective_feed_total": 3,
-    "ok_feeds": 3,
-    "failed_feeds": [],
+    "ok_feeds": 2,
+    "failed_feeds": [
+      "https://openai.com/news/rss.xml"
+    ],
     "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
@@ -124,7 +126,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 766,
-        "duration_ms": 223,
+        "duration_ms": 363,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -138,7 +140,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1403,
+        "duration_ms": 1704,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -150,10 +152,10 @@
         "feed_title": "OpenAI News",
         "feed_url": "https://openai.com/news/rss.xml",
         "effective_feed_url": "https://openai.com/news/rss.xml",
-        "ok": true,
-        "item_count": 940,
-        "duration_ms": 764,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 4871,
+        "error": "500 Server Error: Internal Server Error for url: https://openai.com/news/rss.xml",
         "skipped": false,
         "skip_reason": null,
         "replaced": false
