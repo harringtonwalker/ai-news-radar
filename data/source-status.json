@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-01T09:00:08.441831Z",
+  "generated_at": "2026-07-01T12:15:31.547110Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 442,
+      "duration_ms": 443,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 385,
+      "duration_ms": 364,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 430,
-      "duration_ms": 11472,
+      "item_count": 461,
+      "duration_ms": 15643,
       "error": null
     },
     {
@@ -30,31 +30,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1667,
+      "duration_ms": 1130,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3054,
-      "duration_ms": 1602,
+      "item_count": 3055,
+      "duration_ms": 1361,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 4932,
-      "error": "HTTPSConnectionPool(host='zeli.app', port=443): Max retries exceeded with url: /api/hacker-news?type=hot24h (Caused by ResponseError('too many 502 error responses'))"
+      "ok": true,
+      "item_count": 76,
+      "duration_ms": 464,
+      "error": null
     },
     {
       "site_id": "aihubtoday",
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 257,
+      "duration_ms": 161,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1556,
+      "duration_ms": 1464,
       "error": null
     },
     {
@@ -70,16 +70,16 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 498,
+      "duration_ms": 178,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 26525,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=hackernews (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Read timed out. (read timeout=20)\"))"
+      "ok": true,
+      "item_count": 130,
+      "duration_ms": 962,
+      "error": null
     },
     {
       "site_id": "opmlrss",
@@ -87,7 +87,7 @@
       "ok": true,
       "partial_failures": 0,
       "item_count": 1861,
-      "duration_ms": 2277,
+      "duration_ms": 2426,
       "error": null,
       "feed_count": 3,
       "effective_feed_count": 3,
@@ -97,16 +97,14 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 8,
+  "successful_sites": 10,
   "failed_sites": [
-    "zeli",
-    "aihot",
-    "newsnow"
+    "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 6516,
-  "items_before_topic_filter": 7066,
-  "items_in_24h": 906,
+  "fetched_raw_items": 6754,
+  "items_before_topic_filter": 6930,
+  "items_in_24h": 895,
   "rss_opml": {
     "enabled": true,
     "path": "feeds/follow.opml",
@@ -126,7 +124,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 813,
-        "duration_ms": 384,
+        "duration_ms": 356,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -140,7 +138,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1104,
+        "duration_ms": 1360,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -154,7 +152,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1028,
-        "duration_ms": 789,
+        "duration_ms": 710,
         "error": null,
         "skipped": false,
         "skip_reason": null,
